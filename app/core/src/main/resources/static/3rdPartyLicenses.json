@@ -559,22 +559,22 @@
         {
             "moduleName": "io.jsonwebtoken:jjwt-api",
             "moduleUrl": "https://github.com/jwtk/jjwt",
-            "moduleVersion": "0.12.6",
-            "moduleLicense": "Apache License, Version 2.0",
+            "moduleVersion": "0.12.7",
+            "moduleLicense": "Apache-2.0",
             "moduleLicenseUrl": "https://www.apache.org/licenses/LICENSE-2.0"
         },
         {
             "moduleName": "io.jsonwebtoken:jjwt-impl",
             "moduleUrl": "https://github.com/jwtk/jjwt",
-            "moduleVersion": "0.12.6",
-            "moduleLicense": "Apache License, Version 2.0",
+            "moduleVersion": "0.12.7",
+            "moduleLicense": "Apache-2.0",
             "moduleLicenseUrl": "https://www.apache.org/licenses/LICENSE-2.0"
         },
         {
             "moduleName": "io.jsonwebtoken:jjwt-jackson",
             "moduleUrl": "https://github.com/jwtk/jjwt",
-            "moduleVersion": "0.12.6",
-            "moduleLicense": "Apache License, Version 2.0",
+            "moduleVersion": "0.12.7",
+            "moduleLicense": "Apache-2.0",
             "moduleLicenseUrl": "https://www.apache.org/licenses/LICENSE-2.0"
         },
         {
